@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install test unpack
+DEPEND=>=dev-lang/go-1.8
+DESCRIPTION=A Go library for turning io.Reader into channels
+EAPI=6
+HOMEPAGE=https://github.com/fritteli/iochan
+KEYWORDS=~amd64
+LICENSE=MIT
+SLOT=0/0.0.1_alpha
+SRC_URI=https://github.com/fritteli/iochan/archive/v0.0.1-alpha.tar.gz -> iochan-0.0.1_alpha.tar.gz
+_eclasses_=golang-base	51a1f13e065f1cff4507685d9cc268c7	golang-build	b66349c110e4ddd6203bbe8bf4ae05c1	golang-vcs-snapshot	913580335becddd3ebecefe852e47536
+_md5_=5596c49dc42b3700a7c22d66f0dbac30
