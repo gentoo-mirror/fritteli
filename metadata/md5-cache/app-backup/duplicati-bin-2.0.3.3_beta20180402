@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=dev-dotnet/gtk-sharp >=app-arch/rpm2targz-9.0.0.3g
+DESCRIPTION=A backup client that securely stores encrypted, incremental, compressed backups.
+EAPI=6
+HOMEPAGE=http://www.duplicati.com/
+KEYWORDS=~amd64
+LICENSE=LGPL-2
+SLOT=0
+SRC_URI=https://github.com/duplicati/duplicati/releases/download/v2.0.3.3-2.0.3.3_beta_2018-04-02/duplicati-2.0.3.3-2.0.3.3_beta_20180402.noarch.rpm -> duplicati-bin-2.0.3.3_beta20180402.rpm
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	63392afb034aad67f17fa129019eb4d9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	rpm	f52cfa3a435468d86d3b49c357b9cb35	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
+_md5_=554eb54da5070adf779d8c59a459c5c3
