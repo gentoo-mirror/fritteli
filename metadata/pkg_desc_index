@@ -1,1 +1,10 @@
+app-backup/duplicati-bin 2.0.4.5_beta20181128 2.0.4.23_beta20190714: A backup client that securely stores encrypted, incremental, compressed backups.
+dev-util/drone 1.1.0 1.2.3: Drone CI - Automate Software Testing and Delivery
+games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
+games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
+media-fonts/andalus 1-r1: Andalus Truetype Font
+media-fonts/snowflake-letters 1-r1: Snowflake Letters Truetype Font
+net-news/feedreader 2.8.2 2.10.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
+sci-geosciences/garminplugin 0.3.27: A free replacement for the Garmin browser plugin
 sci-geosciences/garmintools 0.10: A Linux interface to the Garmin Forerunner GPS units
+sys-cluster/ganglia 3.7.2: A scalable distributed monitoring system for clusters and grids
