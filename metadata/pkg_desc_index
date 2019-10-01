@@ -1,5 +1,5 @@
 app-backup/duplicati-bin 2.0.4.5_beta20181128 2.0.4.23_beta20190714: A backup client that securely stores encrypted, incremental, compressed backups.
-dev-util/drone 1.1.0 1.2.3: Drone CI - Automate Software Testing and Delivery
+dev-util/drone 1.2.3 1.5.1: Drone CI - Automate Software Testing and Delivery
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
 media-fonts/andalus 1-r1: Andalus Truetype Font
