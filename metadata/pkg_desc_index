@@ -1,5 +1,6 @@
 app-backup/duplicati-bin 2.0.4.5_beta20181128 2.0.4.23_beta20190714: A backup client that securely stores encrypted, incremental, compressed backups.
 app-metrics/node_exporter 0.18.1: Prometheus exporter for machine metrics
+app-metrics/prometheus-cpu-mem-monitor 0.0.0.1: CPU and memory monitoring for prometheus
 dev-util/drone 1.2.3 1.5.1: Drone CI - Automate Software Testing and Delivery
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
