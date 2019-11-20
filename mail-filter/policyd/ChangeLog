@@ -1,0 +1,16 @@
+*policyd-1.82-r4 (20 Nov 2019)
+
+  20 Nov 2019;  <manuel@gentoo.org> +policyd-1.82-r4.ebuild,
+  -policyd-1.82-r3.ebuild, files/policyd.service:
+  mail-filter/policyd: Fix systemd unit file
+
+  20 Nov 2019;  <manuel@gentoo.org> files/policyd.service:
+  mail-filter/policyd: Fix user/group in systemd unit file.
+
+*policyd-1.82-r3 (20 Nov 2019)
+
+  20 Nov 2019;  <manuel@gentoo.org> +files/policyd-cleanup.cron,
+  +files/policyd-makefile.patch, +files/policyd-post182.patch,
+  +files/policyd.confd, +files/policyd.rc, +files/policyd.service,
+  +metadata.xml, +policyd-1.82-r3.ebuild:
+  mail-filter/policyd: Add ebuild with systemd unit file.
