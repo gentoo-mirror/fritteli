@@ -1,9 +1,14 @@
 app-backup/duplicati-bin 2.0.4.5_beta20181128 2.0.4.23_beta20190714: A backup client that securely stores encrypted, incremental, compressed backups.
+app-metrics/apache_exporter 0.7.0: Prometheus exporter for apache metrics
+app-metrics/mysqld_exporter 0.11.0: Prometheus exporter for MySQL server metrics
 app-metrics/node_exporter 0.18.1: Prometheus exporter for machine metrics
+app-metrics/postfix_exporter 0.1.2 0.2.0: Prometheus Exporter for Postfix
+app-metrics/prometheus 2.13.1: Prometheus monitoring system and time series database
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1: CPU and memory monitoring for prometheus
 dev-util/drone 1.2.3 1.5.1: Drone CI - Automate Software Testing and Delivery
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
+mail-filter/policyd 1.82-r4: Policy daemon for postfix and other MTAs
 media-fonts/andalus 1-r1: Andalus Truetype Font
 media-fonts/snowflake-letters 1-r1: Snowflake Letters Truetype Font
 net-news/feedreader 2.8.2 2.10.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
