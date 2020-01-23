@@ -1,4 +1,4 @@
-app-backup/duplicati-bin 2.0.4.5_beta20181128 2.0.4.23_beta20190714: A backup client that securely stores encrypted, incremental, compressed backups.
+app-backup/duplicati-bin 2.0.4.5_beta20181128 2.0.4.23_beta20190714 2.0.5.1_beta20200118: A backup client that securely stores encrypted, incremental, compressed backups.
 app-metrics/apache_exporter 0.7.0: Prometheus exporter for apache metrics
 app-metrics/mysqld_exporter 0.11.0: Prometheus exporter for MySQL server metrics
 app-metrics/node_exporter 0.18.1: Prometheus exporter for machine metrics
