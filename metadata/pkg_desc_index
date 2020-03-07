@@ -5,6 +5,7 @@ app-metrics/node_exporter 0.18.1: Prometheus exporter for machine metrics
 app-metrics/postfix_exporter 0.1.2 0.2.0: Prometheus Exporter for Postfix
 app-metrics/prometheus 2.13.1: Prometheus monitoring system and time series database
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1: CPU and memory monitoring for prometheus
+dev-perl/Finance-Quote 1.490.0: Get stock and mutual fund quotes from various exchanges
 dev-util/drone 1.2.3 1.5.1: Drone CI - Automate Software Testing and Delivery
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
