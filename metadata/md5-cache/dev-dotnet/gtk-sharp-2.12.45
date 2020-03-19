@@ -1,0 +1,15 @@
+BDEPEND=dev-lang/mono >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=compile configure install prepare setup unpack
+DEPEND=>=dev-lang/mono-3.0 x11-libs/pango >=dev-libs/glib-2.31 dev-libs/atk x11-libs/gtk+:2 gnome-base/libglade dev-perl/XML-LibXML !dev-dotnet/gtk-sharp-gapi !dev-dotnet/gtk-sharp-docs !dev-dotnet/gtk-dotnet-sharp !dev-dotnet/gdk-sharp !dev-dotnet/glib-sharp !dev-dotnet/glade-sharp !dev-dotnet/pango-sharp !dev-dotnet/atk-sharp virtual/pkgconfig sys-devel/automake:1.11
+DESCRIPTION=gtk bindings for mono
+EAPI=7
+HOMEPAGE=http://www.mono-project.com/GtkSharp
+IUSE=debug
+KEYWORDS=~amd64 ~arm64 ~ppc ~x86
+LICENSE=GPL-2
+RDEPEND=>=dev-lang/mono-3.0 x11-libs/pango >=dev-libs/glib-2.31 dev-libs/atk x11-libs/gtk+:2 gnome-base/libglade dev-perl/XML-LibXML !dev-dotnet/gtk-sharp-gapi !dev-dotnet/gtk-sharp-docs !dev-dotnet/gtk-dotnet-sharp !dev-dotnet/gdk-sharp !dev-dotnet/glib-sharp !dev-dotnet/glade-sharp !dev-dotnet/pango-sharp !dev-dotnet/atk-sharp
+RESTRICT=test
+SLOT=2
+SRC_URI=http://download.mono-project.com/sources/gtk-sharp212/gtk-sharp-2.12.45.tar.gz
+_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	dotnet	02b07a2ea25a5f7ebf9059cbef40c56f	libtool	f143db5a74ccd9ca28c1234deffede96	mono-env	1f24c032c78290b0d9a07d5b343051a7	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=272d36b94f08fc1376d3ae27b9966cab
