@@ -8,6 +8,8 @@ app-metrics/prometheus-cpu-mem-monitor 0.0.0.1: CPU and memory monitoring for pr
 dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-perl/Finance-Quote 1.490.0-r1: Get stock and mutual fund quotes from various exchanges
 dev-perl/String-Util 1.260.0: String::Util -- String processing utilities
+dev-python/geoip2 4.0.2: MaxMind GeoIP2 API
+dev-python/maxminddb 2.0.2: Python MaxMind DB reader extension
 dev-util/drone 1.2.3 1.5.1: Drone CI - Automate Software Testing and Delivery
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
