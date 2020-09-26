@@ -1,4 +1,8 @@
 acct-group/dkimsocket 0: Group used to share the OpenDKIM socket
+acct-group/drone 0: Group used for the drone.io build server
+acct-group/drone-runner-docker 0: Group used for the drone.io docker runner
+acct-user/drone 0: User for the drone.io build server
+acct-user/drone-runner-docker 0: User for the drone.io docker runner
 acct-user/opendkim 0-r1: User for OpenDKIM
 acct-user/postfix 0-r1: user for postfix daemon
 app-backup/duplicati-bin 2.0.4.5_beta20181128 2.0.4.23_beta20190714 2.0.5.1_beta20200118-r1: A backup client that securely stores encrypted, incremental, compressed backups.
@@ -13,7 +17,8 @@ dev-perl/Finance-Quote 1.490.0-r1: Get stock and mutual fund quotes from various
 dev-perl/String-Util 1.260.0: String::Util -- String processing utilities
 dev-python/geoip2 4.0.2: MaxMind GeoIP2 API
 dev-python/maxminddb 2.0.2: Python MaxMind DB reader extension
-dev-util/drone 1.2.3 1.5.1: Drone CI - Automate Software Testing and Delivery
+dev-util/drone 1.2.3 1.5.1 1.9.1: Drone CI - Automate Software Testing and Delivery
+dev-util/drone-runner-docker 1.5.2: Drone CI - Docker Runner
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
 mail-filter/policyd 1.82-r4: Policy daemon for postfix and other MTAs
