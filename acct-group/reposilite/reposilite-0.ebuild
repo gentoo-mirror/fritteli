@@ -4,7 +4,7 @@
 EAPI=7
 
 inherit acct-group
-DESCRIPTION="Group used for the postfix_exporter prometheus plugin"
+DESCRIPTION="Group used for the reposilite maven repo server"
 KEYWORDS="~amd64"
 
 # If you want this to persist across multiple machines, pick a real number!
