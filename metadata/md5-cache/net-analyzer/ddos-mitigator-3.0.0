@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst
+DESCRIPTION=Script for blocking IP addresses with many concurrent connections
+EAPI=7
+HOMEPAGE=https://gittr.ch/linux/ddos-mitigator
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=app-admin/sudo dev-lang/python:3.8 net-analyzer/fail2ban sys-apps/coreutils sys-apps/grep sys-apps/iproute2 sys-apps/moreutils sys-apps/util-linux
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://gittr.ch/linux/ddos-mitigator/archive/v3.0.0.tar.gz
+_md5_=4be99ddb6105c949c0a537fd3c1b87ae
