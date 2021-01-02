@@ -18,7 +18,7 @@ app-metrics/prometheus-cpu-mem-monitor 0.0.0.1-r1: CPU and memory monitoring for
 dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-python/geoip2 4.0.2 4.1.0: MaxMind GeoIP2 API
 dev-python/maxminddb 2.0.2 2.0.3: Python MaxMind DB reader extension
-dev-util/drone 1.9.2-r1: Drone CI - Automate Software Testing and Delivery
+dev-util/drone 1.9.2-r1 1.10.1: Drone CI - Automate Software Testing and Delivery
 dev-util/drone-runner-docker 1.5.2-r1 1.6.0 1.6.1: Drone CI - Docker Runner
 dev-util/reposilite 2.9.1 2.9.4 2.9.6: Reposilite - Simple Maven Repository hosting
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
@@ -30,4 +30,3 @@ net-analyzer/ddos-mitigator 2.1.0 3.0.0: Script for blocking IP addresses with m
 net-news/feedreader 2.8.2 2.10.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
 sci-geosciences/garminplugin 0.3.27: A free replacement for the Garmin browser plugin
 sci-geosciences/garmintools 0.10: A Linux interface to the Garmin Forerunner GPS units
-www-apps/drone 1.10.1: Drone CI - Automate Software Testing and Delivery
