@@ -10,5 +10,5 @@ RDEPEND=acct-group/mysqld_exporter acct-user/mysqld_exporter
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/prometheus/mysqld_exporter/archive/f5d5289f7627016d8b53b0b3fa7615da8a73b56a.tar.gz -> mysqld_exporter-0.12.1_p20200622.tar.gz
-_eclasses_=go-module	92660621959e7fab813173772987588b	multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e
+_eclasses_=go-module	92660621959e7fab813173772987588b	multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
 _md5_=5005988793ebcaa8bc66f1ee75fa5ef5
