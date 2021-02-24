@@ -19,8 +19,8 @@ dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-python/geoip2 4.0.2 4.1.0: MaxMind GeoIP2 API
 dev-python/maxminddb 2.0.2 2.0.3: Python MaxMind DB reader extension
 dev-util/drone 1.9.2-r1 1.10.1: Drone CI - Automate Software Testing and Delivery
-dev-util/drone-runner-docker 1.5.2-r1 1.6.0 1.6.1 1.6.2: Drone CI - Docker Runner
-dev-util/reposilite 2.9.1 2.9.4 2.9.6: Reposilite - Simple Maven Repository hosting
+dev-util/drone-runner-docker 1.5.2-r1 1.6.0 1.6.1 1.6.2 1.6.3: Drone CI - Docker Runner
+dev-util/reposilite 2.9.6 2.9.8 2.9.16: Reposilite - Simple Maven Repository hosting
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
 mail-filter/policyd 1.82-r4: Policy daemon for postfix and other MTAs
