@@ -24,6 +24,8 @@ dev-util/reposilite 2.9.16 2.9.18: Reposilite - Simple Maven Repository hosting
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
 games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
 mail-filter/policyd 1.82-r4: Policy daemon for postfix and other MTAs
+media-fonts/andalus 1-r2: Andalus Truetype Font
+media-fonts/snowflake-letters 1-r2: Andalus Truetype Font
 net-analyzer/ddos-mitigator 2.1.0 3.0.0: Script for blocking IP addresses with many concurrent connections
 net-news/feedreader 2.8.2 2.10.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
 sci-geosciences/garminplugin 0.3.27: A free replacement for the Garmin browser plugin
