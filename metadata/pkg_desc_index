@@ -22,7 +22,6 @@ dev-util/drone 1.9.2-r1 1.10.1: Drone CI - Automate Software Testing and Deliver
 dev-util/drone-runner-docker 1.5.2-r1 1.6.0 1.6.1 1.6.2 1.6.3: Drone CI - Docker Runner
 dev-util/reposilite 2.9.16 2.9.18: Reposilite - Simple Maven Repository hosting
 games-rpg/ankh 1.0: Ankh a Adventure like Monkey Island
-games-rpg/machinarium 1.0: Point-and-click adventure about robot in steam-punk world
 mail-filter/policyd 1.82-r4: Policy daemon for postfix and other MTAs
 media-fonts/andalus 1-r2: Andalus Truetype Font
 media-fonts/snowflake-letters 1-r2: Andalus Truetype Font
