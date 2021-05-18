@@ -13,7 +13,6 @@ app-backup/duplicati-bin 2.0.5.1_beta20200118-r1 2.0.6.1_beta20210503: A backup 
 app-metrics/apache_exporter 0.8.0-r1: Prometheus exporter for apache metrics
 app-metrics/mysqld_exporter 0.12.1_p20200622: Prometheus exporter for MySQL server metrics
 app-metrics/postfix_exporter 0.2.0-r1: Prometheus Exporter for Postfix
-app-metrics/prometheus 2.19.1 2.21.0: Prometheus monitoring system and time series database
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1-r1: CPU and memory monitoring for prometheus
 dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-python/geoip2 4.0.2-r1 4.1.0-r1: MaxMind GeoIP2 API
