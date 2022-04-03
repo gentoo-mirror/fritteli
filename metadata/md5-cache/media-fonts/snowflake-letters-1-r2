@@ -10,5 +10,5 @@ LICENSE=all-rights-reserved
 RESTRICT=fetch
 SLOT=0
 SRC_URI=https://fontzone.net/downloadfile/snowflake-letters -> SnowflakeLetters.ttf
-_eclasses_=font	b500e97c1ae30f830e84a95be6e9bd36
+_eclasses_=font	d31f12a0f6e13d56dc3062e76ae58a61
 _md5_=2fb2102fe15612f686ab406eba3a5c8d
