@@ -1,15 +1,15 @@
-BDEPEND=>=dev-lang/go-1.10 virtual/pkgconfig
-DEFINED_PHASES=compile install prepare test unpack
-DEPEND=>=dev-lang/go-1.14 >=dev-util/promu-0.3.0
+BDEPEND=>=dev-lang/go-1.16 app-arch/unzip virtual/pkgconfig
+DEFINED_PHASES=compile install unpack
+DEPEND=acct-group/apache_exporter acct-user/apache_exporter
 DESCRIPTION=Prometheus exporter for apache metrics
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/Lusitaniae/apache_exporter
-INHERIT=golang-build golang-vcs-snapshot systemd
+INHERIT=go-module systemd
 KEYWORDS=~amd64
 LICENSE=MIT
-RDEPEND=acct-user/apache_exporter
+RDEPEND=acct-group/apache_exporter acct-user/apache_exporter
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/Lusitaniae/apache_exporter/archive/v0.11.0.tar.gz -> apache_exporter-0.11.0.tar.gz
-_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-build	0bd4f7f8de6ac61b4224cb690c5ea321	golang-vcs-snapshot	6864f899c6843043ba23620fcd4a908c	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	systemd	2736b403a83f194b59b767f3b344c2c1
-_md5_=1c20e0782b7e3d2b1b1f5eef7af39c66
+SRC_URI=https://github.com/Lusitaniae/apache_exporter/archive/v0.11.0.tar.gz -> apache_exporter-0.11.0.tar.gz https://manuel.friedli.info/gentoo-overlay/apache_exporter-0.11.0-deps.tar.xz
+_eclasses_=go-module	a13d34fe4e2996720e1ca6c53b9ea95a	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	systemd	2736b403a83f194b59b767f3b344c2c1
+_md5_=305a8bf25a413a444513e4e022024995

@@ -5,4 +5,3 @@
 dev-dotnet/gtk-sharp:atk - Build the ATK bindings.
 dev-dotnet/gtk-sharp:gdk - Build the GDK bindings.
 dev-dotnet/gtk-sharp:pango - Build the Pango bindings.
-dev-util/drone:enterprise - Build the enterprise version used in the official docker image, instead of the OSS version.
