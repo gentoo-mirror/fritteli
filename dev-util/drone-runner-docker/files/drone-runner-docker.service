@@ -1,5 +1,5 @@
 [Unit]
-Description=drone.io docker runner
+Description=Drone CI Docker Runner
 Documentation=https://docs.drone.io/
 
 After=docker.service
@@ -11,7 +11,8 @@ Requires=network.target
 User=drone-runner-docker
 Group=drone-runner-docker
 
-ExecStart=/usr/sbin/drone-runner-docker daemon /etc/drone-runner-docker/app.ini
+EnvironmentFile=/etc/conf.d/drone-runner-docker
+ExecStart=/usr/bin/drone-runner-docker daemon
 
 Restart=on-failure
 
