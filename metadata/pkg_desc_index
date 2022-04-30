@@ -10,16 +10,16 @@ acct-user/opendkim 0-r1: User for OpenDKIM
 acct-user/postfix 0-r1: user for postfix daemon
 acct-user/reposilite 0: User for the reposilite maven repo server
 app-backup/duplicati-bin 2.0.5.1_beta20200118-r1 2.0.6.1_beta20210503 2.0.6.3_beta20210617: A backup client that securely stores encrypted, incremental, compressed backups.
-app-metrics/apache_exporter 0.8.0-r1: Prometheus exporter for apache metrics
+app-metrics/apache_exporter 0.8.0-r1 0.11.0: Prometheus exporter for apache metrics
 app-metrics/mysqld_exporter 0.12.1_p20200622: Prometheus exporter for MySQL server metrics
 app-metrics/postfix_exporter 0.2.0-r1: Prometheus Exporter for Postfix
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1-r1: CPU and memory monitoring for prometheus
 dev-dotnet/gtk-sharp 3.22.2-r1: gtk bindings for mono
 dev-python/geoip2 4.0.2-r1 4.1.0-r1: MaxMind GeoIP2 API
 dev-python/maxminddb 2.0.2-r1 2.0.3-r1: Python MaxMind DB reader extension
-dev-util/drone 1.9.2-r1 1.10.1 2.0.4 2.4.0: Drone CI - Automate Software Testing and Delivery
-dev-util/drone-runner-docker 1.5.2-r1 1.6.0 1.6.1 1.6.2 1.6.3: Drone CI - Docker Runner
-dev-util/reposilite 2.9.16 2.9.18 2.9.23: Reposilite - Simple Maven Repository hosting
+dev-util/drone 2.4.0 2.11.1: A Continuous Delivery platform built on Docker, written in Go
+dev-util/drone-runner-docker 1.6.3: Drone CI - Docker Runner
+dev-util/reposilite 2.9.26: Reposilite - Simple Maven Repository hosting
 mail-filter/policyd 1.82-r5: Policy daemon for postfix and other MTAs
 media-fonts/andalus 1-r2: Andalus Truetype Font
 media-fonts/snowflake-letters 1-r2: Andalus Truetype Font
