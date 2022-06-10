@@ -5,4 +5,8 @@
 		<email>manuel@fritteli.ch</email>
 		<name>Manuel Friedli</name>
 	</maintainer>
+	<use>
+		<flag name="staticfont">Install the static fonts.</flag>
+		<flag name="variablefont">Install the variable font (may cause problems with Libreoffice and printing/PDF export).</flag>
+	</use>
 </pkgmetadata>
