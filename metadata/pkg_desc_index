@@ -13,8 +13,8 @@ app-metrics/mysqld_exporter 0.12.1_p20200622: Prometheus exporter for MySQL serv
 app-metrics/postfix_exporter 0.2.0-r1: Prometheus Exporter for Postfix
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1-r1: CPU and memory monitoring for prometheus
 dev-dotnet/gtk-sharp 3.22.2-r1: gtk bindings for mono
-dev-python/geoip2 4.0.2-r1 4.1.0-r1: MaxMind GeoIP2 API
-dev-python/maxminddb 2.0.2-r1 2.0.3-r1: Python MaxMind DB reader extension
+dev-python/geoip2 4.0.2-r2 4.1.0-r2 4.6.0: MaxMind GeoIP2 API
+dev-python/maxminddb 2.0.2-r2 2.0.3-r2: Python MaxMind DB reader extension
 dev-util/drone 2.11.1: A Continuous Delivery platform built on Docker, written in Go
 dev-util/drone-runner-docker 1.8.1: Drone CI - Docker Runner
 dev-util/reposilite 2.9.26: Reposilite - Simple Maven Repository hosting
@@ -22,5 +22,5 @@ gui-libs/blueprint-compiler 0.2.0: A markup language for GTK user interface file
 mail-filter/policyd 1.82-r5: Policy daemon for postfix and other MTAs
 media-fonts/cantarell 0.303.1-r1: Default fontset for GNOME Shell
 media-video/video-trimmer 0.7.1: Trim videos quickly
-net-analyzer/ddos-mitigator 2.1.0 3.0.0 3.0.1: Script for blocking IP addresses with many concurrent connections
+net-analyzer/ddos-mitigator 3.0.1-r1: Script for blocking IP addresses with many concurrent connections
 net-news/feedreader 2.11.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
