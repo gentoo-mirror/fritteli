@@ -24,3 +24,4 @@ media-fonts/cantarell 0.303.1-r2: Default fontset for GNOME Shell
 media-video/video-trimmer 0.7.1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
 net-news/feedreader 2.11.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
+net-news/news-flash 1.5.1: Simple News Feed Reader for feeds aggregated by an online RSS reader account.
