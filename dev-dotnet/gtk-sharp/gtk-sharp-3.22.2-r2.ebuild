@@ -1,7 +1,7 @@
-# Copyright 1999-2021 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 #inherit dotnet autotools base
 #inherit dotnet autotools
@@ -16,7 +16,7 @@ HOMEPAGE="https://github.com/GLibSharp/GtkSharp"
 KEYWORDS="~amd64 ~arm64 ~ppc ~x86"
 SRC_URI="https://github.com/GLibSharp/GtkSharp/archive/refs/tags/${PV}.tar.gz -> ${P}.tar.gz"
 
-IUSE="atk cairo gdk +gtk pango"
+IUSE="+atk +cairo +gdk +gtk +pango"
 
 REQUIRED_USE="
 	gdk? ( atk cairo pango )
