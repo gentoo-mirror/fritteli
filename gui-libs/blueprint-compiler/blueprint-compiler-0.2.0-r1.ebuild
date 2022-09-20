@@ -3,7 +3,8 @@
 
 EAPI=8
 
-inherit meson
+PYTHON_COMPAT=( python3_{8,9,10,11} )
+inherit meson python-single-r1
 
 MY_PV="v${PV}"
 MY_P="${PN}-${MY_PV}"
@@ -16,9 +17,11 @@ LICENSE="LGPL-3"
 SLOT="0"
 KEYWORDS="~amd64"
 
+REQUIRED_USE+="${PYTHON_REQUIRED_USE}"
+
 RESTRICT="mirror"
 
-RDEPEND=">=dev-lang/python-3:*"
+RDEPEND="${PYTHON_DEPS}"
 
 DEPEND="${RDEPEND}"
 
