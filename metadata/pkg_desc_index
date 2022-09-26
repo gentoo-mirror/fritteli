@@ -21,6 +21,7 @@ dev-util/drone-runner-docker 1.8.1: Drone CI - Docker Runner
 dev-util/reposilite 3.0.3-r1: Reposilite - Simple Maven Repository hosting
 gui-libs/blueprint-compiler 0.2.0-r1: A markup language for GTK user interface files.
 media-fonts/cantarell 0.303.1-r2: Default fontset for GNOME Shell
+media-video/neolink 0.4.0_alpha1: Connect to your Reolink camera from Linux
 media-video/video-trimmer 0.7.1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
 net-news/feedreader 2.11.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
