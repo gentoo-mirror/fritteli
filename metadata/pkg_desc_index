@@ -16,7 +16,7 @@ dev-dotnet/gtk-sharp 3.22.2-r2: gtk bindings for mono
 dev-perl/Finance-Quote 1.520.0: Get stock and mutual fund quotes from various exchanges
 dev-python/geoip2 4.6.0-r1: MaxMind GeoIP2 API
 dev-python/maxminddb 2.2.0: Python MaxMind DB reader extension
-dev-util/drone 2.11.1: A Continuous Delivery platform built on Docker, written in Go
+dev-util/drone 2.11.1 2.13.0: A Continuous Delivery platform built on Docker, written in Go
 dev-util/drone-runner-docker 1.8.1: Drone CI - Docker Runner
 dev-util/reposilite 3.0.3-r1: Reposilite - Simple Maven Repository hosting
 gui-libs/blueprint-compiler 0.2.0-r1: A markup language for GTK user interface files.
@@ -25,4 +25,4 @@ media-video/neolink 0.4.0_alpha1: Connect to your Reolink camera from Linux
 media-video/video-trimmer 0.7.1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
 net-news/feedreader 2.11.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
-net-news/news-flash 1.5.1: Simple News Feed Reader for feeds aggregated by an online RSS reader account.
+net-news/news-flash 2.2.4: Simple News Feed Reader for feeds aggregated by an online RSS reader account.
