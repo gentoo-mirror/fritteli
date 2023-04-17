@@ -11,5 +11,5 @@ RDEPEND=acct-group/apache_exporter acct-user/apache_exporter
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/Lusitaniae/apache_exporter/archive/v0.11.0.tar.gz -> apache_exporter-0.11.0.tar.gz https://manuel.friedli.info/gentoo-overlay/apache_exporter-0.11.0-deps.tar.xz
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	go-module	f9700c7efec1fd4955363169e9930c1c	systemd	5f4bb0758df2e483babf68cd517078ca
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	go-module	9c75e51a48520b2f01471c1f91762882	systemd	5f4bb0758df2e483babf68cd517078ca
 _md5_=fa2cc4a87e8f05428518b1178a562e5a
