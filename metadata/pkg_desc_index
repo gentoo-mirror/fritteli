@@ -8,21 +8,19 @@ acct-user/opendkim 0-r2: User for OpenDKIM
 acct-user/postfix 0-r2: user for postfix daemon
 acct-user/reposilite 1-r1: User for the reposilite maven repo server
 app-backup/duplicati-bin 2.0.6.3_beta20210617-r1: A backup client that securely stores encrypted, incremental, compressed backups.
-app-metrics/apache_exporter 0.11.0: Prometheus exporter for apache metrics
-app-metrics/mysqld_exporter 0.12.1_p20200622-r1: Prometheus exporter for MySQL server metrics
+app-metrics/apache_exporter 0.13.3: Prometheus exporter for apache metrics
+app-metrics/mysqld_exporter 0.14.0_p20230328: Prometheus exporter for MySQL server metrics
 app-metrics/postfix_exporter 0.3.0-r1: Prometheus Exporter for Postfix
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1-r2: CPU and memory monitoring for prometheus
 dev-dotnet/gtk-sharp 3.22.2-r2: gtk bindings for mono
-dev-perl/Finance-Quote 1.520.0: Get stock and mutual fund quotes from various exchanges
-dev-python/geoip2 4.6.0-r1: MaxMind GeoIP2 API
-dev-python/maxminddb 2.2.0: Python MaxMind DB reader extension
+dev-python/geoip2 4.7.0: MaxMind GeoIP2 API
+dev-python/maxminddb 2.3.0: Python MaxMind DB reader extension
 dev-util/drone 2.13.0: A Continuous Delivery platform built on Docker, written in Go
-dev-util/drone-runner-docker 1.8.1: Drone CI - Docker Runner
-dev-util/reposilite 3.0.3-r1: Reposilite - Simple Maven Repository hosting
-gui-libs/blueprint-compiler 0.2.0-r1: A markup language for GTK user interface files.
+dev-util/drone-runner-docker 1.8.3: Drone CI - Docker Runner
+dev-util/reposilite 3.0.3-r1 3.4.4: Reposilite - Simple Maven Repository hosting
 media-fonts/cantarell 0.303.1-r2: Default fontset for GNOME Shell
 media-video/neolink 0.4.0_alpha1: Connect to your Reolink camera from Linux
-media-video/video-trimmer 0.7.1: Trim videos quickly
+media-video/video-trimmer 0.8.1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
 net-news/feedreader 2.11.0: Simple News Feed Reader for feeds aggregated by Tiny Tiny RSS or feedly
-net-news/news-flash 2.2.4: Simple News Feed Reader for feeds aggregated by an online RSS reader account.
+net-news/news-flash 2.3.0: Simple News Feed Reader for feeds aggregated by an online RSS reader account.
