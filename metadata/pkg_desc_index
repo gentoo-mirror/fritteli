@@ -7,12 +7,13 @@ acct-user/drone-runner-docker 0-r1: User for the drone.io docker runner
 acct-user/opendkim 0-r2: User for OpenDKIM
 acct-user/postfix 0-r2: user for postfix daemon
 acct-user/reposilite 1-r1: User for the reposilite maven repo server
-app-backup/duplicati-bin 2.0.6.3_beta20210617-r1: A backup client that securely stores encrypted, incremental, compressed backups.
+app-backup/duplicati-bin 2.0.7.1_beta20230525: A backup client that securely stores encrypted, incremental, compressed backups.
 app-metrics/apache_exporter 0.13.3: Prometheus exporter for apache metrics
 app-metrics/mysqld_exporter 0.14.0_p20230328: Prometheus exporter for MySQL server metrics
 app-metrics/postfix_exporter 0.3.0-r1: Prometheus Exporter for Postfix
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1-r2: CPU and memory monitoring for prometheus
 dev-dotnet/gtk-sharp 3.22.2-r2: gtk bindings for mono
+dev-dotnet/nuget 6.6.1: Nuget - .NET Package Manager
 dev-python/geoip2 4.7.0: MaxMind GeoIP2 API
 dev-python/maxminddb 2.3.0: Python MaxMind DB reader extension
 dev-util/drone 2.13.0: A Continuous Delivery platform built on Docker, written in Go
