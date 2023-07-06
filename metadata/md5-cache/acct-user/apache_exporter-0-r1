@@ -1,10 +1,9 @@
 DEFINED_PHASES=install postinst preinst prerm pretend
-DEPEND=acct-group/apache_exporter
 DESCRIPTION=User for the apache_exporter prometheus plugin
 EAPI=8
 INHERIT=acct-user
 KEYWORDS=~amd64
 RDEPEND=acct-group/apache_exporter
 SLOT=0
-_eclasses_=user-info	83547b4df3e1ba5a6bf91a0837eaa664	acct-user	61481025da4dbbd164816ffa01dac002
+_eclasses_=user-info	83547b4df3e1ba5a6bf91a0837eaa664	acct-user	fd6725fcc11ecffded6fe9228b8e3448
 _md5_=75d24045e06b0a8e4cfe6b6e58a1c9d9
