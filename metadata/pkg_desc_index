@@ -19,7 +19,7 @@ dev-python/maxminddb 2.3.0: Python MaxMind DB reader extension
 dev-util/drone-runner-docker 1.8.3: Drone CI - Docker Runner
 dev-util/reposilite 3.4.4: Reposilite - Simple Maven Repository hosting
 media-fonts/cantarell 0.303.1-r2: Default fontset for GNOME Shell
-media-video/neolink 0.4.0_alpha1 0.6.2: A standards-compliant bridge to Reolink IP cameras
+media-video/neolink 0.6.2: A standards-compliant bridge to Reolink IP cameras
 media-video/video-trimmer 0.8.1-r1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
 net-news/news-flash 2.3.0: Simple News Feed Reader for feeds aggregated by an online RSS reader account.
