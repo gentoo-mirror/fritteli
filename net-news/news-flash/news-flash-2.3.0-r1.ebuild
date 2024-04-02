@@ -19,13 +19,11 @@ KEYWORDS="~amd64"
 
 RESTRICT="mirror network-sandbox"
 
-RDEPEND=""
-
 DEPEND="${RDEPEND}
 	dev-db/sqlite
 	dev-lang/rust
 	dev-libs/openssl
-	dev-util/meson
+	dev-build/meson
 	gui-libs/libhandy
 	net-libs/webkit-gtk:6
 	sys-devel/gettext
