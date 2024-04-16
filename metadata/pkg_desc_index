@@ -28,5 +28,5 @@ media-video/neolink 0.6.2: A standards-compliant bridge to Reolink IP cameras
 media-video/video-trimmer 0.8.1-r1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
 net-im/conduit 0.6.0 9999: A Matrix homeserver written in Rust
-net-im/mautrix-signal-bin 0.5.1: A Matrix-Signal puppeting bridge.
+net-im/mautrix-signal-bin 0.5.1-r1: A Matrix-Signal puppeting bridge.
 net-news/news-flash 2.3.0-r1 3.0.2: Feed Reader written in GTK
