@@ -1,9 +1,0 @@
-DEFINED_PHASES=install postinst preinst prerm pretend
-DESCRIPTION=User for the mautrix-whatsapp Matrix bridge
-EAPI=8
-INHERIT=acct-user
-KEYWORDS=~amd64
-RDEPEND=acct-group/mautrix-whatsapp-bin
-SLOT=0
-_eclasses_=user-info	9951b1a0e4f026d16c33a001fd2d5cdf	acct-user	a4bf64e6c32b95705287346a2b678ae1
-_md5_=a4ee9ad69369d2241cd5b0ad9bf29548
