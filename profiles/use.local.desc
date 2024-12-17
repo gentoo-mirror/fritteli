@@ -7,4 +7,3 @@ dev-dotnet/gtk-sharp:gdk - Build the GDK bindings.
 dev-dotnet/gtk-sharp:pango - Build the Pango bindings.
 media-fonts/cantarell:staticfont - Install the static fonts.
 media-fonts/cantarell:variablefont - Install the variable font (may cause problems with Libreoffice and printing/PDF export).
-net-im/mautrix-signal-bin:ffmpeg - Enable brigding voice messages by using ffmpeg.
