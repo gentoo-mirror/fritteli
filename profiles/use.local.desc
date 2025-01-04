@@ -2,8 +2,5 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-dotnet/gtk-sharp:atk - Build the ATK bindings.
-dev-dotnet/gtk-sharp:gdk - Build the GDK bindings.
-dev-dotnet/gtk-sharp:pango - Build the Pango bindings.
 media-fonts/cantarell:staticfont - Install the static fonts.
 media-fonts/cantarell:variablefont - Install the variable font (may cause problems with Libreoffice and printing/PDF export).
