@@ -6,13 +6,13 @@ acct-user/drone-runner-docker 0-r1: User for the drone.io docker runner
 acct-user/reposilite 1-r1: User for the reposilite maven repo server
 app-metrics/apache_exporter 1.0.9: Prometheus exporter for apache metrics
 app-metrics/mysqld_exporter 0.14.0_p20230328: Prometheus exporter for MySQL server metrics
-app-metrics/postfix_exporter 0.3.0-r1: Prometheus Exporter for Postfix
+app-metrics/postfix_exporter 0.3.0-r2: Prometheus Exporter for Postfix
 app-metrics/prometheus-cpu-mem-monitor 0.0.0.1-r2: CPU and memory monitoring for prometheus
 dev-python/geoip2 4.8.0: MaxMind GeoIP2 API
 dev-python/maxminddb 2.6.2: Python MaxMind DB reader extension
-dev-util/drone-runner-docker 1.8.3: Drone CI - Docker Runner
+dev-util/drone-runner-docker 1.8.3-r1: Drone CI - Docker Runner
 dev-util/reposilite 3.5.18: Reposilite - Simple Maven Repository hosting
-media-fonts/cantarell 0.303.1-r2: Default fontset for GNOME Shell
+media-fonts/cantarell 0.303.1-r3: Default fontset for GNOME Shell
 media-video/neolink 0.6.2: A standards-compliant bridge to Reolink IP cameras
 media-video/video-trimmer 0.8.1-r1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
