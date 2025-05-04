@@ -12,9 +12,9 @@ dev-python/geoip2 4.8.0: MaxMind GeoIP2 API
 dev-python/maxminddb 2.6.2: Python MaxMind DB reader extension
 dev-util/drone-runner-docker 1.8.3-r1: Drone CI - Docker Runner
 dev-util/reposilite 3.5.18: Reposilite - Simple Maven Repository hosting
+gnome-extra/nautilus-dropbox 2024.04.17-r1: Dropbox Nautilus Extension
 media-fonts/cantarell 0.303.1-r3: Default fontset for GNOME Shell
 media-video/neolink 0.6.2: A standards-compliant bridge to Reolink IP cameras
 media-video/video-trimmer 0.8.1-r1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
-net-news/news-flash 2.3.0-r1 3.0.2: Feed Reader written in GTK
 net-vpn/globalprotect-openconnect 2.3.7-r1: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
