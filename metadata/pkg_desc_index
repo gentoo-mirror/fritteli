@@ -1,7 +1,9 @@
 acct-group/apache_exporter 0-r1: Group used for the apache_exporter prometheus plugin
+acct-group/conduit 0: Group conduit
 acct-group/drone-runner-docker 0-r1: Group used for the drone.io docker runner
 acct-group/reposilite 0-r1: Group used for the reposilite maven repo server
 acct-user/apache_exporter 0-r1: User for the apache_exporter prometheus plugin
+acct-user/conduit 0: User for conduit
 acct-user/drone-runner-docker 0-r1: User for the drone.io docker runner
 acct-user/reposilite 1-r1: User for the reposilite maven repo server
 app-metrics/apache_exporter 1.0.9: Prometheus exporter for apache metrics
@@ -17,4 +19,5 @@ media-fonts/cantarell 0.303.1-r3: Default fontset for GNOME Shell
 media-video/neolink 0.6.2: A standards-compliant bridge to Reolink IP cameras
 media-video/video-trimmer 0.8.1-r1: Trim videos quickly
 net-analyzer/ddos-mitigator 3.0.1-r2: Script for blocking IP addresses with many concurrent connections
+net-im/conduit 0.10.3: Matrix homeserver written in Rust
 net-vpn/globalprotect-openconnect 2.3.7-r1: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support

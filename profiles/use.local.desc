@@ -4,3 +4,5 @@
 
 media-fonts/cantarell:staticfont - Install the static fonts.
 media-fonts/cantarell:variablefont - Install the variable font (may cause problems with Libreoffice and printing/PDF export).
+net-im/conduit:rocksdb - Add support for RocksDB; a key/value, LSM database
+net-im/conduit:system-rocksdb - Use the system-wide dev-libs/rocksdb installation
